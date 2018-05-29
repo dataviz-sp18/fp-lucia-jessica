@@ -2,7 +2,7 @@
 
 Our project is a flexdashboard. 
 
-We are having trouble publishing  leaflet maps and shiny apps in the same dashboard, so our project is currently hosted in two different links: 
+We are having trouble publishing  leaflet maps and shiny apps in the same dashboard, so our project is currently hosted in different links: 
 
 Shiny App 1
 https://jessicayeyuanjiang.shinyapps.io/interactive_visualization/
