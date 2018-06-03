@@ -1,8 +1,8 @@
 # Final Project by Lucia Delgado and Jessica Jiang
 
-Our project is a flexdashboard. 
+Our project is an interactive visulization of obesity issue in Mexico in R flexdashboard. 
 
-We are having trouble publishing  leaflet maps and shiny apps in the same dashboard, so our project is currently hosted in different links: 
+We have been working on improving our visualization based on feedbacks provided by Evelyn and the linkes to the updated version are below:
 
 Shiny Apps
 https://jessicayeyuanjiang.shinyapps.io/FinalProject_v3/
