@@ -9,10 +9,6 @@ We have been working on improving our visualization based on feedbacks provided 
 *Shiny Apps*
 https://jessicayeyuanjiang.shinyapps.io/FinalProject_v3/
 
-*MAPS*
-http://rpubs.com/luciadelgado/392265
-
-
 
 ### Old Version:
 
