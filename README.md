@@ -8,7 +8,7 @@ To achieve our goal, we developed an interactive dashboard that combines a set o
 Through the development of our visualizations, we focused on making the visualizations appealing to the user and easy to interpret. We also focused on making the dashboard easy to navigate, since this will increase the chances that the user will get engaged in exploring the information included in the dashboard.
 
 ### Link to our project: 
-https://luciadelgado.shinyapps.io/fpv3/
+https://jessicayeyuanjiang.shinyapps.io/FinalProject/
 
 ### Instructions to run our code in your computer: 
 1.	The following packages should be installed to run our code: Flexdashboard, shiny, tidyverse, data.table, ggrepel, grid, rsconnect, dplyr, plotly, shinythemes, readr, ggplot2, ggtree, grid, magick, magrittr, png, ri, haven, knitr, grid. 
