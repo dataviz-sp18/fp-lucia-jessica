@@ -1,11 +1,9 @@
 # Final Project by Lucia Delgado and Jessica Jiang
 
 ### Project Description:
-Our goal is to generate a tool that contributes to increase awareness of the risk of developing obesity and to promote healthy habits among the Mexican population. We expect to do so by providing information about the prevalence of this problem in Mexico. 
+The goal of this visualization is to generate a tool that contributes to increase awareness of the risk of obesity, to promote healthy habits among the Mexican population, and eventually come up with more effective way to tackle this epidemic.
 
-To achieve our goal, we developed an interactive dashboard that combines a set of visualizations with the information we want to share with the user. We allow the user to understand if she is at risk of developing obesity by computing her BMI index. We also provide information about the prevalence of habits that impact the risk of developing obesity. Finally, we explore perceptions among the Mexican population about the consumption of SSBs, since this is one of the main drivers of obesity in the country.
-
-Through the development of our visualizations, we focused on making the visualizations appealing to the user and easy to interpret. We also focused on making the dashboard easy to navigate, since this will increase the chances that the user will get engaged in exploring the information included in the dashboard.
+The interactive dashboard combines a set of visualizations: BMI by Age and Gender, Sugar Sweetened Beverages, and Interactive Map. We focused on deliver information in a truthful, comprehensive, and functional way while making the visualizations appealing and easy to interpret to users. The dashboard is designed to be easy to navigate so it increases the chance that users will engage in exploring more information included in the dashboard.  
 
 ### Link to our project: 
 https://jessicayeyuanjiang.shinyapps.io/FinalProject/
@@ -15,6 +13,8 @@ https://jessicayeyuanjiang.shinyapps.io/FinalProject/
 2.	Download the zip file from our repository and unzip it. This folder contains all the data and image files required to run our code.
 3.	Open the markdown file in RStudio. 
 4.	Select the option: Run Document in RStudio.
+5.  If there's an error of no specification of a package. You can run this line of code in your console before clicking on Run Document: 
+        *options(repos = BiocInstaller::biocinstallRepos())*
 
 ### Team contributions: 
 
