@@ -14,7 +14,7 @@ https://jessicayeyuanjiang.shinyapps.io/FinalProject/
 3.  Open the markdown file in RStudio. 
 4.  Select the option: Run Document in RStudio.
 
-Note: if there's an error of no specification on a package. You can run this line of code in your console before clicking on Run Document: 
+**Note**: if there's an error of no specification on a package. You can run this line of code in your console before clicking on Run Document: 
 
         *options(repos = BiocInstaller::biocinstallRepos())*
 
