@@ -16,7 +16,7 @@ https://jessicayeyuanjiang.shinyapps.io/FinalProject/
 
 **Note**: if there's an error of no specification on a package. You can run this line of code in your console before clicking on Run Document: 
 
-        *options(repos = BiocInstaller::biocinstallRepos())*
+        options(repos = BiocInstaller::biocinstallRepos())
 
 
 ### Team contributions: 
