@@ -23,6 +23,6 @@ https://jessicayeyuanjiang.shinyapps.io/FinalProject/
 
 Lucía Delgado: Compilation of visualizations into a Flexdashboard. Content for the following sections: “About”, “Sugar Sweetened Beverages”, “Health Habits”. Publication of webpage in shinyapps.io.
 
-Jessica Jiang: Design and coding of the shiny App “BMI by Age and Gender in Mexico” and compilation of the write-up.
+Jessica Jiang: Design and coding of the shiny App “BMI by Age and Gender in Mexico”, Publication of webpage in shinyapps.io., and compilation of the write-up.
 
   
