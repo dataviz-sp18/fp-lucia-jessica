@@ -9,12 +9,15 @@ The interactive dashboard combines a set of visualizations: BMI by Age and Gende
 https://jessicayeyuanjiang.shinyapps.io/FinalProject/
 
 ### Instructions to run our code in your computer: 
-1.	The following packages should be installed to run our code: Flexdashboard, shiny, tidyverse, data.table, ggrepel, grid, rsconnect, dplyr, plotly, shinythemes, readr, ggplot2, ggtree, grid, magick, magrittr, png, ri, haven, knitr, grid. 
-2.	Download the zip file from our repository and unzip it. This folder contains all the data and image files required to run our code.
-3.	Open the markdown file in RStudio. 
-4.	Select the option: Run Document in RStudio.
-5.  If there's an error of no specification of a package. You can run this line of code in your console before clicking on Run Document: 
+1.  The following packages should be installed to run our code: Flexdashboard, shiny, tidyverse, data.table, ggrepel, grid, rsconnect, dplyr, plotly, shinythemes, readr, ggplot2, ggtree, grid, magick, magrittr, png, ri, haven, knitr, grid. 
+2.  Download the zip file from our repository and unzip it. This folder contains all the data and image files required to run our code.
+3.  Open the markdown file in RStudio. 
+4.  Select the option: Run Document in RStudio.
+
+Note: if there's an error of no specification on a package. You can run this line of code in your console before clicking on Run Document: 
+
         *options(repos = BiocInstaller::biocinstallRepos())*
+
 
 ### Team contributions: 
 
